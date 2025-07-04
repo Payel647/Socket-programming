@@ -1,3 +1,4 @@
+## Basics Command
 ping www.google.com
 tracert www.google.com
 netstat
